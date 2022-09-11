@@ -10,3 +10,9 @@ for i in range(a*2 + 1):
     f.append(int(n))
     n = n+1
 print(f)
+
+# N = int(input("Введите число: "))
+# if N < 0:
+#     N = -N
+# ans = list(range(-N, N+1))
+# print(ans)
