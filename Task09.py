@@ -8,4 +8,5 @@ while True:
     if s == '':
         break
     f.write(s + '\n')
+
 f.close()
