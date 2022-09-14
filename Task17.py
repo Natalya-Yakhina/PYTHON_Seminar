@@ -14,4 +14,6 @@ print(list)
 # print(min(list))
 # print(max(list))
 
+
+
 print(f'Наименьшее число: {min(list)}, наибольшее число: {max(list)}')
