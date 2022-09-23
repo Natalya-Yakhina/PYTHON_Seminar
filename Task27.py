@@ -27,3 +27,25 @@ try:
 except:
     print("Такого числа нет.")
 
+
+
+# def leave_only_numbers(st):
+# rezult = ''
+
+# for i in st:
+# if ord(i) > ord('/') and ord(i) < ord(':'):
+# rezult += i
+
+# return rezult
+
+
+# number = input('Введите число: ')
+
+# n_list = ['апап4', 'fdgg3', 'fdgf', '6', 'fg24']
+
+# ind = 0
+# for i in n_list:
+# t_el = leave_only_numbers(i)
+# if number == t_el:
+# print(f'{n_list} - ищем {number} - найдено на {ind} индексе')
+# ind += 1
