@@ -21,3 +21,24 @@ try:
     print(count[1])
 except:
     print("Второго вхождения в список нет.")
+
+
+#     st = 'cnh'
+
+# n_list = ["йцу", "фыв", "ячс", "цук", "йцукен", "йцу"]
+
+# ind = 0
+# sh = 0
+# m_ind = 0
+
+# for i in n_list:
+
+# if i == st and sh < 2:
+# sh += 1
+# m_ind = ind
+# ind += 1
+
+# if sh != 0:
+# print(f'{n_list} - ищем: {st}, ответ {m_ind} индексе')
+# else:
+# print(f'{n_list} - ищем: {st}, ответ: -1')
